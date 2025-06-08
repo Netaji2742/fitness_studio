@@ -12,7 +12,9 @@ A simple Python FastAPI project for booking fitness classes like Yoga, Zumba, an
 
 ### bash
 git clone <repo_url>
+
 cd fitness_booking_api
+
 pip install -r requirements.txt
 
 ### to run
